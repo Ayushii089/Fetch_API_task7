@@ -18,9 +18,9 @@ It demonstrates how to work with asynchronous JavaScript, promises, async/await,
 - **JavaScript (Fetch API)** for data fetching and rendering  
 
 ## 📂 Project Structure
-│── index.html # Main HTML file
-│── style.css # Styling
-│── script.js # Fetch API and DOM logic
+-│── index.html # Main HTML file
+-│── style.css # Styling
+-│── script.js # Fetch API and DOM logic
 
 
 ## ⚡ How to Run
